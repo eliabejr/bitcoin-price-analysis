@@ -3,8 +3,8 @@
 1. [INTRODUÇÃO](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/1.introducao.md)
 
 1. [REFERENCIAL TEÓRICO](https://github.com/eliabejr/bitcoin-price-analysis/portuguese/2.referencial-teorico.md)
-  1. [Bitcoin](https://github.com/eliabejr/bitcoin-price-analysis/portuguese/2.referencial-teorico.md#bitcoin)
-  1. [Tomada de Decisão](https://github.com/eliabejr/bitcoin-price-analysis/portuguese/2.referencial-teorico.md#decisao)
+    2.1. [Bitcoin](https://github.com/eliabejr/bitcoin-price-analysis/portuguese/2.referencial-teorico.md#bitcoin)
+    2.2. [Tomada de Decisão](https://github.com/eliabejr/bitcoin-price-analysis/portuguese/2.referencial-teorico.md#decisao)
 
 1. METODOLOGIA
 
