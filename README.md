@@ -8,8 +8,8 @@ Mapear o fluxo especulatório da principal criptomoeda existente, o Bitcoin, e p
 
 ## Links
 
-* [Documento em português](https://github.com/eliabejr/bitcoin-price-analysis/portuguese/)
-* [Documento em inglês](https://github.com/eliabejr/bitcoin-price-analysis/english/)
+* [Documento em português](https://github.com/eliabejr/bitcoin-price-analysis/tree/master/portuguese)
+* [Documento em inglês](https://github.com/eliabejr/bitcoin-price-analysis/tree/master/english)
 * Apresentação (Em breve)
 
 #### Entregas
@@ -31,8 +31,8 @@ Map the speculative flow of the main existing cryptocurrency, the Bitcoin, and p
 
 ## Links
 
-* [Document in portuguese](https://github.com/eliabejr/bitcoin-price-analysis/portuguese/)
-* [Document in english](https://github.com/eliabejr/bitcoin-price-analysis/english/)
+* [Document in portuguese](https://github.com/eliabejr/bitcoin-price-analysis/tree/master/portuguese)
+* [Document in english](https://github.com/eliabejr/bitcoin-price-analysis/tree/master/english)
 * Keynote (Soon)
 
 #### Tasks
