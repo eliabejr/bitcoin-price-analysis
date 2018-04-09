@@ -14,10 +14,10 @@ Mapear o fluxo especulatório da principal criptomoeda existente, o Bitcoin, e p
 
 #### Entregas
 - [x] Introdução
-- [] Referencial Teórico: Bitcoin
-- [] Referencial Teórico: Tomada de Decisão
-- [] Referencial Teórico: Fontes de Dados
-- [] Metodologia: Reescrever metodologia de análise
+- [ ] Referencial Teórico: Bitcoin
+- [ ] Referencial Teórico: Tomada de Decisão
+- [ ] Referencial Teórico: Fontes de Dados
+- [ ] Metodologia: Reescrever metodologia de análise
 - [x] Referências (checar ABNT)
 
 
@@ -37,8 +37,8 @@ Map the speculative flow of the main existing cryptocurrency, the Bitcoin, and p
 
 #### Tasks
 - [x] Introduction
-- [] Theoretical Embasement: Bitcoin
-- [] Theoretical Embasement: Decision-making
-- [] Theoretical Embasement: Data sources
-- [] Methodoly: Rewrite analysis methodology
+- [ ] Theoretical Embasement: Bitcoin
+- [ ] Theoretical Embasement: Decision-making
+- [ ] Theoretical Embasement: Data sources
+- [ ] Methodoly: Rewrite analysis methodology
 - [x] References (check ABNT)
