@@ -14,9 +14,9 @@ Mapear o fluxo especulatório da principal criptomoeda existente, o Bitcoin, e p
 
 #### Entregas
 - [x] Introdução
-- [ ] Referencial Teórico: Bitcoin
-- [ ] Referencial Teórico: Tomada de Decisão
-- [ ] Referencial Teórico: Fontes de Dados
+- [x] Referencial Teórico: Bitcoin
+- [x] Referencial Teórico: Tomada de Decisão
+- [x] Referencial Teórico: Fluxo Especulativo
 - [ ] Metodologia: Reescrever metodologia de análise
 - [x] Referências (checar ABNT)
 
