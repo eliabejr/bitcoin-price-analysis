@@ -12,6 +12,8 @@
     1. [Levantamento de Hipóteses](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/3.metodologia.md#hipoteses)
     1. [Cruzamento de Dados](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/3.metodologia.md#cruzamento)
 
-1. [CONCLUSÃO](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/4.conclusao.md)
+1. [RESULTADOS](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/4.resultados.md)
 
-1. [REFERÊNCIAS BIBLIOGRÁFICAS](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/5.referencias.md)
+1. [CONCLUSÃO](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/5.conclusao.md)
+
+1. [REFERÊNCIAS BIBLIOGRÁFICAS](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/6.referencias.md)
