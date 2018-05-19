@@ -8,9 +8,6 @@
     1. [Tomada de Decisão](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/2.referencial-teorico.md#decisao)
 
 1. [METODOLOGIA](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/3.metodologia.md)
-    1. [Coleta de Dados](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/3.metodologia.md#coleta)
-    1. [Levantamento de Hipóteses](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/3.metodologia.md#hipoteses)
-    1. [Cruzamento de Dados](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/3.metodologia.md#cruzamento)
 
 1. [RESULTADOS](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/4.resultados.md)
 
