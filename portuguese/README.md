@@ -4,7 +4,7 @@
 
 1. [FUNDAMENTAÇÃO TEÓRICA](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/2.referencial-teorico.md)
     1. [Bitcoin](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/2.referencial-teorico.md#bitcoin)
-    1. [Fluxos Especulativo](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/2.referencial-teorico.md#fluxos)
+    1. [Fluxos Especulativos](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/2.referencial-teorico.md#fluxos)
     1. [Tomada de Decisão](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/2.referencial-teorico.md#decisao)
 
 1. [METODOLOGIA](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/3.metodologia.md)
