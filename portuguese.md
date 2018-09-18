@@ -1,4 +1,4 @@
-# SUMÁRIO
+# Sumário
 
 1. [INTRODUÇÃO](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/1.introducao.md)
 2. [FUNDAMENTAÇÃO TEÓRICA](https://github.com/eliabejr/bitcoin-price-analysis/blob/master/portuguese/2.referencial-teorico.md) 
